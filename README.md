@@ -3,13 +3,21 @@
 </div>  
   
 
-### <div align="center">I'm Aaditya Rengarajan, a back-end freelance developer 👨‍💻 currently pursuing university🚀</div>  
-  
+### <div align="center">I'm Aaditya Rengarajan, a back-end freelance developer 👨‍💻 currently pursuing a university course in Computer Science Engineering🚀</div>  
 
-🔭 I’m currently working on [autopilot](https://github.com/rishavanand/github-profilinator), a system to add cruise control and other functionalities to budget-vehicles such as two and three-wheelers, based in India.  
-  
+<div align="center"><i>👤 he/him</i></div>
 
-🤩 I’m a huge Python and Flask fanboy  
+<br/>
+
+🔭 I’m currently working on [autopilot](https://github.com/aadityarengarajan/autopilot), a system to add cruise control and other functionalities to budget-vehicles such as two and three-wheelers, based in India🇮🇳.
+
+🤩 I’m a huge Python and Flask fanboy.
+
+✈️ Retired Back-End Developer from [VATSIM](https://www.vatsim.net/)'s [VATMENA](https://vatsim.me/) Technical Team [Position : VATMENATECH62]
+
+🏢 World Building. Embarked on a project ✈ revolutionizing virtual aviation & music 💿 and 💻 providing tactical digital consulting titled ["IntellX"](https://www.intellx.co.in)
+
+💼 Providing Digital Enterprise Resource Planning "ERP" Solutions to [EQUATE Petrochemical Company](https://www.equate.com/)
   
 
 <br/>  
@@ -72,14 +80,38 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me 
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) Here are my socials :
+
+<br/>
+
 <div align="center">
 <a href="https://github.com/aadityarengarajan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/aadityarenga" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="mailto:aaditya@intellx.co.in" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://discord.com/users/829140024976867379" target="_blank">
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<br/><br/>
+
+Can't start a conversation? Here are some peeks into my personal life :
+<br/>
+
+### i love tv shows like euphoria, you, rick and morty, and so many more!
+<br/>
+
+let's talk about [Aaryan Shah](https://aaryanshahmusic.com/) and [The Weeknd](https://www.theweeknd.com/)!! I love MIA, Tommy Genesis, Billie Eilish, sobhhi, and so many more artists!<br/><br/>
+<img src="https://scontent-maa2-1.xx.fbcdn.net/v/t31.18172-8/23511343_769684496549435_5001835919338929548_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=9267fe&_nc_ohc=LJaqqTAVrpsAX_Dlw-b&_nc_ht=scontent-maa2-1.xx&oh=987c796fb81b07990e19bf2f5db33a4b&oe=6165AD2A" width=10%><img src="https://i.scdn.co/image/ab6761610000e5eb94fbdb362091111a47db337d" width=10%><img src="https://www.tinymixtapes.com/sites/default/files/1311/mia-matangi.jpg" width=10%><img src="https://scontent-maa2-1.xx.fbcdn.net/v/t1.6435-9/165283501_186200323316807_7735299199052153834_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ME92jUJOqU8AX8Qp57_&_nc_ht=scontent-maa2-1.xx&oh=6b199e5604c1734b2e820074310e7e8f&oe=6163C392" width=10%>
+
+### go [stream my music](https://blu.intellx.co.in) ;) i'm a music producer as well!
+
 </div>  
   
 
@@ -89,21 +121,19 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityarengarajan&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+<br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=aadityarengarajan&&style=flat-square" align="center" /><img src="https://badges.pufler.dev/repos/aadityarengarajan" align="center" style="padding-left: 5px" />
+<img src="https://komarev.com/ghpvc/?username=aadityarengarajan&&style=flat-square" align="center" /><img src="https://badges.pufler.dev/repos/aadityarengarajan" align="center" />
 </div>  
+
+<br/>  
+
+
+<hr/>
+
+<br/>  
+
   
 
 <br/>  
@@ -111,4 +141,7 @@
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
-<br />
+
+<div align="center">
+<a href='https://ko-fi.com/J3J0677H4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
