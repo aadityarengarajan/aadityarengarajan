@@ -87,7 +87,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityarengarajan&hide_border=true&layout=compact" align="center" /><br/><img src="https://badges.pufler.dev/repos/aadityarengarajan"></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityarengarajan&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -102,7 +102,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=aadityarengarajan&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=aadityarengarajan&&style=flat-square" align="center" /><img src="https://badges.pufler.dev/repos/aadityarengarajan">
 </div>  
   
 
@@ -112,6 +112,3 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
