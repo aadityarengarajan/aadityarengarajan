@@ -102,7 +102,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=aadityarengarajan&&style=flat-square" align="center" /><img src="https://badges.pufler.dev/repos/aadityarengarajan">
+<img src="https://komarev.com/ghpvc/?username=aadityarengarajan&&style=flat-square" align="center" /><img src="https://badges.pufler.dev/repos/aadityarengarajan" align="center" />
 </div>  
   
 
