@@ -9,7 +9,7 @@
 
 <br/>
 
-🔭 I’m currently working on [X-Link](https://www.intellx.in), a software-solutions start-up with innovative ideas, based in India🇮🇳.
+🔭 I’m currently working on [IntellX](https://www.intellx.in), a software-solutions start-up with innovative ideas, based in India🇮🇳.
 
 🤩 I’m a huge Python and Flask fanboy.
 
